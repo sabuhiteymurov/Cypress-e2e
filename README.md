@@ -2,11 +2,7 @@
 
 <p align="center">
   <a href="https://www.cypress.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="./assets/cypress-logo-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/cypress-logo-light.png">
-      <img alt="Cypress Logo" src="./assets/cypress-logo-light.png">
-    </picture>    
+    <img alt="Cypress Logo" src="https://www.cypress.io/cypress_logo_social.png"> 
   </a>
 </p>
 <p align="center">
