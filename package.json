@@ -1,12 +1,12 @@
 {
   "name": "cypress-e2e",
   "version": "1.0.0",
-  "description": "",
+  "description": "E2E tests with Cypress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sabuhi Teymurov",
   "license": "ISC",
   "dependencies": {
     "cypress": "^12.10.0",
