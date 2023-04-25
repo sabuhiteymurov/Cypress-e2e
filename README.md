@@ -15,6 +15,10 @@
   <a href="https://on.cypress.io/roadmap">Roadmap</a>
 </p>
 
+<h3 align="center">
+  The web has evolved. Finally, testing has too.
+</h3>
+
 ## Installing
 
 Install Cypress for Mac, Linux, or Windows, then [get started](https://on.cypress.io/install).
