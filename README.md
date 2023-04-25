@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.cypress.io">
-    <img alt="Cypress Logo" src="https://www.cypress.io/cypress_logo_social.png"> 
+    <img height=217.25 width=415 alt="Cypress Logo" src="https://www.cypress.io/cypress_logo_social.png"> 
   </a>
 </p>
 <p align="center">
